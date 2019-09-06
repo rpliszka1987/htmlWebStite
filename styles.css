@@ -1,0 +1,19 @@
+/* Common nav styles */
+
+.navigation-wrapper {
+	height: 190px;
+	background-color: #11122b;
+	color: #cbcbcb;
+	/* Flexbox container */
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.contact-hours-wrapper {
+	color: royalblue;
+}
+
+.address-wrapper {
+	color: red;
+}
