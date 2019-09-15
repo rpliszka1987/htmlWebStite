@@ -30,10 +30,11 @@ body {
 	font-size: 2em;
 }
 
-.contact-hours-wrapper {
-	
+.left-column>.contact-hours-wrapper {
+	/* Grid Layout */
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-gap: 10px;
 }
 
-.address-wrapper {
-	
-}
+.address-wrapper {}
