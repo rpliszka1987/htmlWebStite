@@ -1,4 +1,15 @@
-* Helpers Style */ .spacer60 {
+/*Helpers Style */
+.spacer60 {
     height: 60px;
     width: 100%;
+}
+
+.anchor-link {
+    text-decoration: none;
+    text-align: center;
+
+}
+
+.anchor-link:focus {
+    outline: none;
 }
